@@ -1,0 +1,25 @@
+<img src="[GrasslandAnimals] (imported)" width="800" height="521" border="0" usemap="#map" />
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Molly Croke -->
+<area shape="rect" coords="15,88,164,217" alt="Tiger" target="audio" href="Tiger.mp3" />
+<area shape="rect" coords="171,65,273,219" alt="Deer" target="audio" href="Deer.mp3" />
+<area shape="rect" coords="282,73,425,216" alt="Lion" target="audio" href="Lion.mp3" />
+<area shape="rect" coords="435,81,561,215" alt="Hyena" target="audio" href="Hyena.mp3" />
+<area shape="rect" coords="572,76,679,214" alt="Cheetah" target="audio" href="Cheetah.mp3" />
+<area shape="rect" coords="688,74,784,217" alt="Ostrich" target="audio" href="Ostrich.mp3" />
+<area shape="rect" coords="12,230,180,363" alt="Zebra" target="audio" href="Zebra.mp3" />
+<area shape="rect" coords="190,232,370,347" alt="Rhino" target="audio" href="Rhino.mp3" />
+<area shape="rect" coords="380,228,514,360" alt="Bison" target="audio" href="Bison.mp3" />
+<area shape="rect" coords="531,227,640,361" alt="Elephant" target="audio" href="Elephant.mp3" />
+<area shape="rect" coords="649,223,784,364" alt="Kangaroo" target="audio" href=" Kangaroo.mp3" />
+<area shape="rect" coords="12,405,121,495" alt="Armadillo" target="audio" href="Armadillo.mp3" />
+<area shape="rect" coords="120,371,287,493" alt="Falcon" target="audio" href="Falcon.mp3" />
+<area shape="rect" coords="295,354,375,485" alt="Secretary Bird" target="audio" href="SecretaryBird.mp3" />
+<area shape="rect" coords="388,377,514,490" alt="Snake" target="audio" href="Snake.mp3" />
+<area shape="rect" coords="527,383,668,491" alt="Lizard" target="audio" href="Lizard.mp3" />
+<area shape="rect" coords="674,388,786,494" alt="Frog" target="audio" href="Frog.mp3" />
+</map>
